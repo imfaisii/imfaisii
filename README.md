@@ -41,13 +41,6 @@ Software engineer passionate about creating elegant solutions to complex problem
   </a>
 </div>
 
-## 📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/imfaisii/cloudflare-captcha-solver-in-puppeteer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imfaisii&repo=cloudflare-captcha-solver-in-puppeteer&theme=radical" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
