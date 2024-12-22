@@ -6,11 +6,9 @@
 Software engineer passionate about creating elegant solutions to complex problems. Building the future one commit at a time.
 
 ## 💻 Tech Stack
-**Languages & Frameworks:**
-- JavaScript | TypeScript | PHP
-- Vue | Nuxt | Next | React | Node
-- Docker | Kubernetes
-- AWS | GCP
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,vue,nuxt,nextjs,react,nodejs,docker,kubernetes,aws,gcp&theme=dark" />
+</div>
 
 ## 📊 GitHub Analytics
 <div align="center">
