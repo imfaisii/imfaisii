@@ -23,7 +23,7 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imfaisii&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=imfaisii&theme=dark&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 ## 📊 GitHub Language Stats
