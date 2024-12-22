@@ -16,7 +16,7 @@ Software engineer passionate about creating elegant solutions to complex problem
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfaisii&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🔥 Contribution Streak
+## 🔥 Githu Contribution Streak
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=imfaisii&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
@@ -24,6 +24,11 @@ Software engineer passionate about creating elegant solutions to complex problem
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imfaisii&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+## 📊 GitHub Language Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imfaisii&show_icons=true&locale=en&layout=compact" alt="Language Stats"/>
 </div>
 
 ## 🌐 Connect With Me
@@ -34,16 +39,6 @@ Software engineer passionate about creating elegant solutions to complex problem
   <a href="https://x.com/imfaisii" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-</div>
-
-## 📊 GitHub Language Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imfaisii&show_icons=true&locale=en&layout=compact" alt="Language Stats"/>
-</div>
-
-## 🔥 GitHub Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imfaisii" alt="GitHub Streak"/>
 </div>
 
 ## 📌 Pinned Repositories
