@@ -7,7 +7,7 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ## 💻 Tech Stack
 **Languages & Frameworks:**
-- PHP | JavaScript | TypeScript
+- JavaScript | TypeScript | PHP
 - Vue | Nuxt | Next | React | Node
 - Docker | Kubernetes
 - AWS | GCP
@@ -30,11 +30,11 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/imfaisii">
+  <a href="https://linkedin.com/in/imfaisii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/imfaisii">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/imfaisii" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
@@ -50,7 +50,7 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ## 📌 Pinned Repositories
 <div align="center">
-  <a href="https://github.com/imfaisii/cloudflare-captcha-solver-in-puppeteer">
+  <a href="https://github.com/imfaisii/cloudflare-captcha-solver-in-puppeteer" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imfaisii&repo=cloudflare-captcha-solver-in-puppeteer&theme=radical" />
   </a>
 </div>
