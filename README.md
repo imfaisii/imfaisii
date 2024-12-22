@@ -8,7 +8,7 @@ Software engineer passionate about creating elegant solutions to complex problem
 ## 💻 Tech Stack
 **Languages & Frameworks:**
 - PHP | JavaScript | TypeScript
-- Vue | Nuxt | Next React | Node
+- Vue | Nuxt | Next | React | Node
 - Docker | Kubernetes
 - AWS | GCP
 
@@ -25,7 +25,7 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=imfaisii&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 ## 🌐 Connect With Me
