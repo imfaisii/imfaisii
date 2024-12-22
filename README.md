@@ -36,13 +36,6 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ---
 
-### 📊 GitHub Language Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imfaisii&show_icons=true&locale=en&layout=compact" alt="Language Stats"/>
-</div>
-
----
-
 ### 📌 Featured Repositories
 <div align="center">
   <a href="https://github.com/imfaisii/puppeteer-scrapping-nestjs" target="_blank">
