@@ -5,10 +5,14 @@
 ## 🚀 About Me
 Software engineer passionate about creating elegant solutions to complex problems. Building the future one commit at a time.
 
+---
+
 ## 💻 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,vue,nuxt,nextjs,react,nodejs,docker,kubernetes,aws,gcp&theme=dark" />
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 <div align="center">
@@ -16,20 +20,37 @@ Software engineer passionate about creating elegant solutions to complex problem
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfaisii&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🔥 Githu Contribution Streak
+---
+
+## 🔥 Github Contribution Streak
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=imfaisii&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imfaisii&theme=dark&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 </div>
 
+---
+
 ## 📊 GitHub Language Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imfaisii&show_icons=true&locale=en&layout=compact" alt="Language Stats"/>
 </div>
+
+---
+
+### 📌 Featured Repositories
+<div align="center">
+  <a href="https://github.com/imfaisii/puppeteer-scrapping-nestjs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imfaisii&repo=puppeteer-scrapping-nestjs&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+  </a>
+</div>
+
+---
 
 ## 🌐 Connect With Me
 <div align="center">
