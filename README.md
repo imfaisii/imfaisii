@@ -9,7 +9,7 @@ Software engineer passionate about creating elegant solutions to complex problem
 
 ### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,vue,nuxt,nextjs,react,nodejs,docker,kubernetes,aws,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,vue,nuxt,nextjs,nestjs,react,nodejs,docker,kubernetes,aws,gcp&theme=dark" />
 </div>
 
 ---
